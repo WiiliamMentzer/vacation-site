@@ -5,10 +5,14 @@
   margin-bottom: 2rem;
 }
 
-.sidebar ul {
+/* .sidebar ul {
  
-}
+} */
 
 .packages {
   margin-top: 2rem;
+}
+
+.price {
+  width: 15rem;
 }
